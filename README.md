@@ -17,7 +17,7 @@ I'm Avinash, a passionate **Full Stack Developer** with a love for building inno
 
 ---
 
-### 🛠️ Languages and Tools
+###  `Languages and Tools 🛠️`
 
 <p align="left">
   <strong>Frontend:</strong><br>
@@ -50,7 +50,7 @@ I'm Avinash, a passionate **Full Stack Developer** with a love for building inno
 ---
 
 
-### 🔗 Let's Connect
+###  `Let's Connect 🔗`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash-kumar-deepak-089225279/" target="_blank">
