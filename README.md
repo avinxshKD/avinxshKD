@@ -47,15 +47,6 @@ I'm Avinash, a passionate **Full Stack Developer** with a love for building inno
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvinashKumarDeepak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Avinash's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashKumarDeepak&theme=tokyonight" alt="Avinash's GitHub Streak" />
-</p>
-
----
 
 ### 🔗 Let's Connect
 
