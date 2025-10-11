@@ -58,7 +58,7 @@ I'm Avinash, a passionate **Full Stack Developer** with a love for building inno
   <a href="https://www.linkedin.com/in/avinash-kumar-deepak-089225279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="avinash8655279@gmail.com" target="_blank">
+  <a href="mailto:avinash8655279@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
