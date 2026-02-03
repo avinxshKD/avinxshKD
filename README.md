@@ -1,14 +1,10 @@
 ### `Hello there, fellow <developers/> 👋`
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="600">
-</div>
-
 ---
 
-###  `About Me 👋`
+###  `About Me`
 
-I'm Avinash, a passionate **Full Stack Developer** with a love for building innovative solutions and solving complex problems. I thrive in collaborative and fast-paced environments.
+I'm Avinash, a passionate **Full Stack Developer** with a love for building innovative solutions and solving complex problems. I love collaborative and fast-paced environments.
 
 - 🌱 I’m currently sharpening my problem-solving skills with **Data Structures and Algorithms (DSA)**.
 - 🚀 I'm actively exploring the **Open Source** world, looking for impactful projects to contribute to.
