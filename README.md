@@ -4,12 +4,10 @@
 
 ###  `About Me`
 
-I'm Avinash, a passionate **Full Stack Developer** with a love for building innovative solutions and solving complex problems. I love collaborative and fast-paced environments.
-
--  I’m currently sharpening my problem-solving skills with **Data Structures and Algorithms (DSA)**.
--  I'm actively exploring the **Open Source** world, looking for impactful projects to contribute to.
--  I’m always ready to **collaborate** on exciting projects, especially those in the web development and open-source space.
--  Feel free to discuss about  Web Dev, DSA, Projects or Open source.
+I'm Avinash, 
+- **Focus:** Web Development & Open Source
+- **Currently:** Sharpening DSA and looking for projects to contribute to
+- **Collaborations:** Open to teaming up on web dev or open-source builds
 
 ---
 
