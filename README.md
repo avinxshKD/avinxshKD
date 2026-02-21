@@ -4,7 +4,7 @@
 
 ###  `About Me`
 
-I'm Avinash, 
+  I'm Avinash, 
 - **Focus:** Web Development & Open Source
 - **Currently:** Sharpening DSA and looking for projects to contribute to
 - **Collaborations:** Open to teaming up on web dev or open-source builds
