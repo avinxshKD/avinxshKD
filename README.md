@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/AI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
   <img src="https://img.shields.io/badge/PDF.js-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF.js">
 </p>
