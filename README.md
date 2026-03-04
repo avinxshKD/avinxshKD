@@ -13,7 +13,7 @@ I contribute heavily to strictly maintained, large-scale codebases:
 * **Cloud & Infra:** AWS, Docker, CI/CD (GitHub Actions)
 * **Databases:** PostgreSQL, MongoDB
 * **Testing & Tooling:** Vitest, Playwright, Cypress
-* **Frontend:** React, Redux, Tailwind (Functional UI implementation)
+* **Frontend:** React.js, Next.js Redux, Tailwind
 
 ### Achievements
 * **1st Place, Hack the Future 2025:** Engineered a custom AI scheduling algorithm to reduce calendar conflicts by 80%.
