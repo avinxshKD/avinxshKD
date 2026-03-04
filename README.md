@@ -1,11 +1,11 @@
 # Hi, I'm Avinash
 
-I architect and scale multi-language systems. Currently focused on high-performance backend implementations, open-source infrastructure, and cross-language interoperability.
+I architect and scale multi-language systems. Currently focused on high-performance full-stack applications, open-source infrastructure, and cross-language interoperability.
 
 ### Open Source Track Record
 I contribute heavily to strictly maintained, large-scale codebases:
 * **CONTROL-CORE:** 60+ PRs merged. Currently developing the `concore` Julia reference implementation for closed-loop control systems.
-* **Processing Foundation:** 15+ PRs merged across `p5.js`, `Processing4`, and `p5.js Web Editor`.
+* **Processing Foundation:** 15+ PRs merged across `p5.js`, `Processing4`, and `p5.js Web Editor` covering feature improvements, test coverage and bug fixes.
 
 ### Technical Profile
 * **Languages:** JavaScript, TypeScript, Julia, Python, Java
