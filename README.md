@@ -4,11 +4,11 @@ I architect and scale multi-language systems. Currently focused on high-performa
 
 ### Open Source Track Record
 I contribute heavily to strictly maintained, large-scale codebases:
-* **CONTROL-CORE:** 60+ PRs merged. Currently developing the `concore` Julia reference implementation for closed-loop control systems.
+* **CONTROL-CORE:** 70+ PRs merged. Currently developing the `concore` Julia reference implementation for closed-loop control systems.
 * **Processing Foundation:** 15+ PRs merged across `p5.js`, `Processing4`, and `p5.js Web Editor` covering feature improvements, test coverage and bug fixes.
 
 ### Technical Profile
-* **Languages:** JavaScript, TypeScript, Julia, Python, Java
+* **Languages:** JavaScript, Julia, Python, Java, TypeScript
 * **Backend:** Node.js, Express.js, REST APIs, ZeroMQ
 * **Cloud & Infra:** AWS, Docker, CI/CD (GitHub Actions)
 * **Databases:** PostgreSQL, MongoDB
