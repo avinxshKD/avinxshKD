@@ -6,6 +6,7 @@ I architect and scale multi-language systems. Currently focused on high-performa
 I contribute heavily to strictly maintained, large-scale codebases:
 * **CONTROL-CORE:** 75+ PRs merged. Currently developing the `concore` Julia reference implementation for closed-loop control systems.
 * **Processing Foundation:** 15+ PRs merged across `p5.js`, `Processing4`, and `p5.js Web Editor` covering feature improvements, test coverage and bug fixes.
+* I have also contributed to other well known orgs like `owasp owtf` and Alaska's `Bio-Block`
 
 ### Technical Profile
 * **Languages:** JavaScript, Julia, Python, Java, TypeScript
