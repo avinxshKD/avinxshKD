@@ -19,7 +19,7 @@ I contribute heavily to strictly maintained, large-scale codebases:
 ### Achievements
 * **1st Place, Hack the Future 2025:** Engineered a custom AI scheduling algorithm to reduce calendar conflicts by 80%.
 * **Best Innovation, CodeSprint AI Challenge:** Architected a real-time collaborative IDE featuring WebSockets and an AI auditor.
-* **Open Source Milestone:** Surpassed 90+ merged PRs across strictly maintained global ecosystems.
+* **Open Source Milestone:** Surpassed 100+ merged PRs across strictly maintained global ecosystems.
   
 ### Links
 * **Portfolio** -> [avinash.dev](https://your-portfolio-url.com)
