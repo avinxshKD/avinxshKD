@@ -4,7 +4,7 @@ I architect and scale multi-language systems. Currently focused on high-performa
 
 ### Open Source Track Record
 I contribute heavily to strictly maintained, large-scale codebases:
-* **CONTROL-CORE:** 80+ PRs merged. Currently developing the `concore` Julia reference implementation for closed-loop control systems.
+* **CONTROL-CORE:** 85+ PRs merged. Currently developing the `concore` Julia reference implementation for closed-loop control systems.
 * **Processing Foundation:** 15+ PRs across `p5.js`, `Processing4`, and `p5.js Web Editor` covering feature improvements, test coverage and bug fixes.
 * I have also contributed to other well known orgs like `owasp owtf` and Alaska's `Bio-Block`
 
@@ -22,7 +22,7 @@ I contribute heavily to strictly maintained, large-scale codebases:
 * **Open Source Milestone:** Surpassed 100+ merged PRs across strictly maintained global ecosystems.
   
 ### Links
-* **Portfolio** -> [avinash.dev](https://portfolio-2026-five-kohl.vercel.app/)
+* **Portfolio** -> [avinash.dev]()
 * **LinkedIn** -> [avinash-kumar-deepak](https://www.linkedin.com/in/avinash-kumar-deepak-089225279/)
 * **Email** -> [avinash8655279@gmail.com](mailto:avinash8655279@gmail.com)
 
