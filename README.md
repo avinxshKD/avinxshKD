@@ -9,9 +9,9 @@ I contribute heavily to strictly maintained, large-scale codebases:
 * I have also contributed to other well known orgs like `owasp owtf` and Alaska's `Bio-Block`
 
 ### Technical Profile
-* **Languages:** JavaScript, Julia, Python, Java, TypeScript
+* **Languages:** JavaScript, Julia, Python, Java, Go, TypeScript
 * **Backend:** Node.js, Express.js, REST APIs, 
-* **Cloud & Infra:** AWS, Docker, CI/CD (GitHub Actions)
+* **Cloud & Infra:** AWS, Docker, Kubernates, Nginx, CI/CD (GitHub Actions)
 * **Databases:** PostgreSQL, MongoDB
 * **Testing & Tooling:** Vitest, Playwright, Cypress
 * **Frontend:** React.js, Next.js Redux, Tailwind
