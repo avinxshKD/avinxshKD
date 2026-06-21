@@ -1,6 +1,7 @@
 # Hi, I'm Avinash
 
-I architect and scale multi-language systems. Currently focused on high-performance full-stack applications, open-source infrastructure, and cross-language interoperability.
+I architect and scale multi-language systems. Currently focused on high-performance full-stack applications, open-source infrastructure, and 
+distributed computing, and cloud-native ecosystem.
 
 ### Open Source Track Record
 I contribute heavily to strictly maintained, large-scale codebases:
