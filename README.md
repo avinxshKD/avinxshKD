@@ -1,6 +1,6 @@
 # Hi, I'm Avinash
 
-I architect and scale multi-language systems. Currently focused on high-performance full-stack applications, open-source infrastructure, and 
+I architect and scale multi-language systems. Currently focused on high-performance full-stack applications, open-source infrastructure,
 distributed computing, and cloud-native ecosystem.
 
 ### Open Source Track Record
@@ -11,11 +11,11 @@ I contribute heavily to strictly maintained, large-scale codebases:
 
 ### Technical Profile
 * **Languages:** JavaScript, Julia, Python, Java, Go, TypeScript
-* **Backend:** Node.js, Express.js, REST APIs, 
-* **Cloud & Infra:** AWS, Docker, Kubernates, Nginx, CI/CD (GitHub Actions)
+* **Backend:** Node.js, Express.js, REST APIs 
+* **Cloud & Infra:** AWS, Docker, Kubernetes, Nginx, CI/CD (GitHub Actions)
 * **Databases:** PostgreSQL, MongoDB
 * **Testing & Tooling:** Vitest, Playwright, Cypress
-* **Frontend:** React.js, Next.js Redux, Tailwind
+* **Frontend:** React.js, Next.js, Redux, Tailwind
 
 ### Achievements
 * **1st Place, Hack the Future 2025:** Engineered a custom AI scheduling algorithm to reduce calendar conflicts by 80%.
