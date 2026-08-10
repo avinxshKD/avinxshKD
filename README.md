@@ -3,6 +3,16 @@
 I architect and scale multi-language systems. Currently focused on high-performance full-stack applications, open-source infrastructure,
 distributed computing, and cloud-native ecosystem.
 
+### Google Summer of Code – Alaska 
+* Built a native Julia runtime for Concore with safe wire-format parsing, config/params loading, sync handling, and
+FileBackend as the default protocol path.
+* Added wire-compatible File, Mmap, and optional ZMQ backends, enabling Julia nodes to interoperate with existing
+Python and C++ workflows.
+* Added Julia demos, Docker runtime support, Docker generation, and a mixed Python–Julia container study for
+validating real multi-language Concore workflows.
+* Built reproducible benchmark scripts for Julia/Python and backend comparisons, measuring MmapBackend at 7.47x
+and ZMQBackend at 18.05x the FileBackend round-trip rate, with Julia wire parsing 3.20x faster than Python
+
 ### Open Source Track Record
 I contribute heavily to strictly maintained, large-scale codebases:
 * **CONTROL-CORE:** 85+ PRs merged. Currently developing the `concore` Julia reference implementation for closed-loop control systems.
