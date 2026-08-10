@@ -16,8 +16,8 @@ and ZMQBackend at 18.05x the FileBackend round-trip rate, with Julia wire parsin
 ### Open Source Track Record
 I contribute heavily to strictly maintained, large-scale codebases:
 * **CONTROL-CORE:** 85+ PRs merged. Currently developing the `concore` Julia reference implementation for closed-loop control systems.
-* **Volcano ecosystem:** 16+ merged PRs across,focused on scheduler and controller reliability, networking, Gateway API routing, authentication, and KV-cache correctness.
-* **Processing Foundation:** 15+ PRs across `p5.js`, `Processing4`, and `p5.js Web Editor` covering feature improvements, test coverage and bug fixes.
+* **Volcano ecosystem:** 20+ merged PRs across,focused on scheduler and controller reliability, networking, Gateway API routing, authentication, and KV-cache correctness.
+* **Processing Foundation:** 14+ PRs merged `p5.js`, `Processing4`, and `p5.js Web Editor` covering feature improvements, test coverage and bug fixes.
 * I have also contributed to other well known orgs like `owasp owtf`, `Kubeedge`, `Kuadrant`, `Kmesh` and Alaska's `Bio-Block`
 
 ### Technical Profile
