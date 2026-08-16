@@ -1,6 +1,6 @@
 # Hi, I'm Avinash
 
-I architect and scale multi-language systems. Currently focused on high-performance full-stack applications, open-source infrastructure,
+I architect and scale multi-language systems. Currently focused on high-performance full-stack applications,
 distributed computing, and cloud-native ecosystem.
 
 ### Google Summer of Code – Alaska 
