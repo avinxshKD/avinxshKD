@@ -22,7 +22,7 @@ I contribute heavily to strictly maintained, large-scale codebases:
 * I have also contributed to other well known orgs like `owasp owtf`, `Kubeedge`, `Kuadrant`, `Kmesh` and Alaska's `Bio-Block`
 
 ### Technical Profile
-* **Languages:** JavaScript, Julia, Python, Java, Go, TypeScript
+* **Languages:** JavaScript/Typescript, Julia, GO, Java, Python, C++
 * **Backend:** Node.js, Express.js, REST APIs 
 * **Cloud & Infra:** AWS, Docker, Kubernetes, Nginx, CI/CD (GitHub Actions)
 * **Databases:** PostgreSQL, MongoDB
