@@ -1,6 +1,7 @@
 # Hi, I'm Avinash
 
-I architect and scale multi-language systems. Currently focused on high-performance full-stack applications,
+
+I am currently a Google Summer of Code 2026 contributor with Alaska. Currently focused on high-performance full-stack applications,
 distributed computing, and cloud-native ecosystem.
 
 ### Google Summer of Code – Alaska 
