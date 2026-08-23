@@ -35,7 +35,7 @@ I contribute heavily to strictly maintained, large-scale codebases:
 * **Open Source Milestone:** Surpassed 150+ merged PRs across strictly maintained global ecosystems.
   
 ### Links
-* **Portfolio** -> [avinash.dev]()
+* **Portfolio** -> [avinash.dev](https://portfolio-2026-gold-beta.vercel.app/)
 * **LinkedIn** -> [avinash-kumar-deepak](https://www.linkedin.com/in/avinash-kumar-deepak-089225279/)
 * **Email** -> [avinash8655279@gmail.com](mailto:avinash8655279@gmail.com)
 
