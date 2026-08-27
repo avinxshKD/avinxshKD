@@ -39,3 +39,7 @@ I contribute heavily to strictly maintained, large-scale codebases:
 * **LinkedIn** -> [avinash-kumar-deepak](https://www.linkedin.com/in/avinash-kumar-deepak-089225279/)
 * **Email** -> [avinash8655279@gmail.com](mailto:avinash8655279@gmail.com)
 
+<p align="center">
+<img src="https://count.getloli.com/@:avinxshKD" alt="Profile views" />
+</p>
+
